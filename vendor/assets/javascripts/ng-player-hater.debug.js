@@ -1,0 +1,1 @@
+../../../bower_components/ngPlayerHater/ng-player-hater.js

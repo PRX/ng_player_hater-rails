@@ -1,0 +1,6 @@
+<% if !defined?(Rails) || Rails.env.development? || Rails.env.test? 
+  require_asset "soundmanager2-nodebug"
+  require_asset "ng-player-hater.debug"
+else
+  require_asset "ng-player-hater.min"
+end %>
