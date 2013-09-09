@@ -1,6 +1,6 @@
 {
   "name": "ng_player_hater-rails",
-  "version": "0.0.0",
+  "version": "0.0.4",
   "authors": [
     "chrisrhoden <carhoden@gmail.com>"
   ],
@@ -14,6 +14,6 @@
     "tests"
   ],
   "dependencies": {
-    "ngPlayerHater": "~0.0.3"
+    "ngPlayerHater": "~0.0.4"
   }
 }
